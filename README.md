@@ -9,6 +9,7 @@ Nesse repositório você vai encontrar o meu projeto de automação de um formul
 - Para a criação de dados dinâmicos, utilizei a biblioteca do [**Faker**](https://www.npmjs.com/package/@faker-js/faker). 
 - Comandos personalizados.
 - Utilização de boas práticas, como o uso do `beforeEach`.
+- Esse projeto faz parte da Automation MasterClass, proporcionada e dirigida por [**Alexandre Silva**](https://github.com/AlexandreTI-AUT).
 
 ## Instalação do Cypress 🔧
 
